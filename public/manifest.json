@@ -1,0 +1,57 @@
+{
+	"name": "Superbike Technologies Group",
+	"short_name": "STG",
+	"icons": [													
+		{
+			"src": "/src/images/icons/app-icon-48x48.png",
+			"type": "image/png",
+			"sizes": "48X48"
+		},
+		{
+			"src": "/src/images/icons/app-icon-96x96.png",
+			"type": "image/png",
+			"sizes": "96X96"
+		},
+		{
+			"src": "/src/images/icons/app-icon-144x144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/src/images/icons/app-icon-192x192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/src/images/icons/app-icon-256x256.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "/src/images/icons/app-icon-384x384.png",
+			"type": "image/png",
+			"sizes": "384x384"
+		},
+		{
+			"src": "/src/images/icons/app-icon-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"related_applications": [
+		{
+			"platform": "play",
+			"url": "https://play.google.com/store/apps/details?di=com.example.app1",
+			"id": "com.example.app1"
+		}
+	],
+	"start_url": "/index.html",
+	"scope": ".",
+	"display": "standalone",
+	"orientation": "portrait-primary",
+	"background_color": "#fff",
+	"theme_color": "#fff",
+	"description": "Your New Bike Obsession Starts Here.",
+	"dir": "ltr",
+	"lang": "en-US"
+}
