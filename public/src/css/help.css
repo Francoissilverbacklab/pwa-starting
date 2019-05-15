@@ -2,3 +2,41 @@
 .mdl-button {
   margin: 10px;
 }
+
+html p {
+	color: rgba(61,61,61,0.6); 
+}
+
+.mdl-layout__header {
+	background-color: rgba(255,255,255);
+	color: rgb(14,14,14);
+	box-shadow: none;
+	border-bottom: 1px solid rgba(61,61,61,0.6);
+}
+
+.mdl-layout__header .mdl-layout__drawer-button {
+	color: rgba(14,14,14);
+}
+
+.mdl-button--fab.mdl-button--colored {
+    background: rgba(255,255,255);
+    color: rgba(61,61,61,0.6);
+    box-shadow: none;
+    border: 1px solid #9b9b9b;
+}
+
+.mdl-button--raised.mdl-button--colored {
+	color: rgb(61,61,61);
+	border-top: 1px solid rgba(61,61,61,0.4);
+	border-bottom: 1px solid rgba(61,61,61,0.4);
+	border-radius: 0;
+}
+
+.mdl-color--accent {
+	background-color: rgba(0,0,0,0)!important;
+}
+
+.mdl-button--raised {
+	background: rgba(255,255,255);
+	box-shadow: none;
+}
